@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Location-Turkey%20%F0%9F%87%B9%F0%9F%87%B7-1e3a8a?style=flat-square" />
 <img src="https://img.shields.io/badge/Open%20to-Remote%20roles%20%26%20freelance-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Languages-TR%20%E2%80%A2%20EN%20%E2%80%A2%20DE%20(clients)-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Languages-English%20%E2%80%A2%20German-0f172a?style=flat-square" />
 
 </div>
 
