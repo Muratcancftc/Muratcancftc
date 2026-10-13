@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Muratcan%20%C3%87ift%C3%A7i&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Muratcan%20%C3%87ift%C3%A7i&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20Building%20production%20web%20%26%20mobile%20apps%20for%20clients%20across%20Europe&descSize=16&descAlignY=60" width="100%" />
 
 <a href="https://github.com/Muratcancftc">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Next.js+%E2%80%A2+React+Native+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Web+%26+mobile+apps+from+idea+to+launch;E-commerce%2C+CRMs+%26+AI-powered+platforms;Technical+SEO+%26+GEO+built+into+every+build;Shipping+for+clients+in+Germany+%26+Turkey" alt="Typing SVG" />
@@ -115,14 +115,6 @@ Internal tools that take repetitive SEO and marketing work off the team.
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muratcancftc&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
-</div>
 
 ---
 
