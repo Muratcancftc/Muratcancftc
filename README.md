@@ -3,7 +3,7 @@
 <img src="./assets/header.svg" width="100%" alt="Muratcan Çiftçi — Full-Stack & Mobile Developer" />
 
 <a href="https://github.com/Muratcancftc">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Next.js+%E2%80%A2+React+Native+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Web+%26+mobile+apps+from+idea+to+launch;E-commerce%2C+CRMs+%26+AI-powered+platforms;Technical+SEO+%26+GEO+built+into+every+build;Shipping+for+clients+in+Germany+%26+Turkey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Next.js+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Web+%26+mobile+apps+from+idea+to+launch;E-commerce%2C+CRMs+%26+AI-powered+platforms;Technical+SEO+%26+GEO+built+into+every+build;Shipping+for+clients+in+Germany+%26+Turkey" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ I'm a full-stack and mobile developer who takes web and mobile products from ide
 Most of my work happens in private client repositories, so this profile looks quieter than it really is. **1,000+ contributions in the last year** went into that work.
 
 - 🛠️ Building **e-commerce platforms, CRMs, admin panels and AI-powered SaaS** with Next.js, Node.js and PostgreSQL
-- 📱 Shipping **mobile apps** (iOS / Swift, React Native) that run on the same backend as the web product
+- 📱 Shipping **mobile apps** (iOS / Swift, Flutter) that run on the same backend as the web product
 - 🌍 Working with clients in **Germany 🇩🇪 and Turkey 🇹🇷**, including localisation, GDPR-compliant legal pages and local SEO
 - 🔎 Technical **SEO & GEO** (Generative Engine Optimization) is part of how I build, not something added later
 - 🤖 Daily AI-assisted engineering workflow (Claude Code, Cursor) and headless automation pipelines
@@ -79,9 +79,9 @@ Fast, multilingual business websites with SEO and analytics included from the st
 
 #### 📱 Mobile apps
 Native iOS and cross-platform apps connected to the same backend as the web product.
-<br/><sub>iOS (Swift / SwiftUI) · React Native & Expo · push notifications · auth · admin-panel sync</sub>
+<br/><sub>iOS (Swift / SwiftUI) · Flutter & Dart · push notifications · auth · admin-panel sync</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=swift,react,ts,supabase" height="32"/>
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,supabase" height="32"/>
 
 </td>
 <td width="50%" valign="top">
@@ -101,8 +101,8 @@ Internal tools that take repetitive SEO and marketing work off the team.
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,swift&perline=12" /><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,nodejs,express,fastapi&perline=12" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,dart&perline=12" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,vite,tailwind,nodejs,express,fastapi&perline=12" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,supabase,redis&perline=12" /><br/>
   <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,linux,nginx,git,github&perline=12" />
 </p>
