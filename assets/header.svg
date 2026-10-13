@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V170C1050 205 900 150 750 168C600 186 450 215 300 190C180 170 80 160 0 178Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 0H1200V170C1050 205 900 150 750 168C600 186 450 215 300 190C180 170 80 160 0 178Z;M0 0H1200V182C1050 160 900 200 750 178C600 158 450 175 300 200C180 210 80 172 0 165Z;M0 0H1200V170C1050 205 900 150 750 168C600 186 450 215 300 190C180 170 80 160 0 178Z"/>
+  </path>
+  <path fill="#7c3aed" opacity="0.25" d="M0 150C200 190 400 130 600 160C800 190 1000 140 1200 160V0H0Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0 150C200 190 400 130 600 160C800 190 1000 140 1200 160V0H0Z;M0 165C200 135 400 185 600 150C800 125 1000 180 1200 145V0H0Z;M0 150C200 190 400 130 600 160C800 190 1000 140 1200 160V0H0Z"/>
+  </path>
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" text-anchor="middle" fill="#ffffff">
+    <text x="600" y="92" font-size="54" font-weight="700">Muratcan Çiftçi
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="600" y="132" font-size="21" font-weight="500" fill="#c7d2fe" letter-spacing="1">Full-Stack &amp; Mobile Developer</text>
+  </g>
+</svg>
